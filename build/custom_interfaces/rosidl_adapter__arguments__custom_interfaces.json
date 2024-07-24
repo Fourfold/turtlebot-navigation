@@ -1,0 +1,7 @@
+{
+  "package_name": "custom_interfaces",
+  "non_idl_tuples": [
+    "/home/fourfold/dev/inmind sessions/inmind-session-7/turtlebot-navigation/src/custom_interfaces:srv/FindClosestWall.srv",
+    "/home/fourfold/dev/inmind sessions/inmind-session-7/turtlebot-navigation/src/custom_interfaces:action/MeasureLapTime.action"
+  ]
+}

@@ -1,0 +1,21 @@
+running egg_info
+writing ../../build/turtlebot_nav/turtlebot_nav.egg-info/PKG-INFO
+writing dependency_links to ../../build/turtlebot_nav/turtlebot_nav.egg-info/dependency_links.txt
+writing entry points to ../../build/turtlebot_nav/turtlebot_nav.egg-info/entry_points.txt
+writing requirements to ../../build/turtlebot_nav/turtlebot_nav.egg-info/requires.txt
+writing top-level names to ../../build/turtlebot_nav/turtlebot_nav.egg-info/top_level.txt
+reading manifest file '../../build/turtlebot_nav/turtlebot_nav.egg-info/SOURCES.txt'
+writing manifest file '../../build/turtlebot_nav/turtlebot_nav.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/fourfold/dev/inmind sessions/inmind-session-7/turtlebot-navigation/install/turtlebot_nav/lib/python3.10/site-packages/turtlebot_nav-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/turtlebot_nav/turtlebot_nav.egg-info to /home/fourfold/dev/inmind sessions/inmind-session-7/turtlebot-navigation/install/turtlebot_nav/lib/python3.10/site-packages/turtlebot_nav-0.0.0-py3.10.egg-info
+running install_scripts
+Installing find_closest_wall_server = turtlebot_nav.closest_wall_server:mainlap_server script to /home/fourfold/dev/inmind sessions/inmind-session-7/turtlebot-navigation/install/turtlebot_nav/lib/turtlebot_nav
+Installing lap_client script to /home/fourfold/dev/inmind sessions/inmind-session-7/turtlebot-navigation/install/turtlebot_nav/lib/turtlebot_nav
+Installing navigator_node script to /home/fourfold/dev/inmind sessions/inmind-session-7/turtlebot-navigation/install/turtlebot_nav/lib/turtlebot_nav
+writing list of installed files to '/home/fourfold/dev/inmind sessions/inmind-session-7/turtlebot-navigation/build/turtlebot_nav/install.log'

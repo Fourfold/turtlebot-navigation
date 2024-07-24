@@ -1,0 +1,6 @@
+[console_scripts]
+find_closest_wall_server = turtlebot_nav.closest_wall_server:main
+lap_client = turtlebot_nav.lap_time_client:main
+lap_server = turtlebot_nav.lap_time_server:main
+navigator_node = turtlebot_nav.navigator:main
+

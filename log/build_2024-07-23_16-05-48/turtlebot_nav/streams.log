@@ -1,0 +1,37 @@
+[0.340s] Invoking command in '/home/fourfold/dev/inmind sessions/inmind-session-7/turtlebot-navigation/src/turtlebot_nav': PYTHONPATH=/home/fourfold/dev/inmind sessions/inmind-session-7/turtlebot-navigation/build/turtlebot_nav/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/fourfold/dev/inmind sessions/inmind-session-7/turtlebot-navigation/install/turtlebot_nav/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/turtlebot_nav build --build-base /home/fourfold/dev/inmind sessions/inmind-session-7/turtlebot-navigation/build/turtlebot_nav/build install --record /home/fourfold/dev/inmind sessions/inmind-session-7/turtlebot-navigation/build/turtlebot_nav/install.log --single-version-externally-managed install_data
+[0.464s] running egg_info
+[0.464s] creating ../../build/turtlebot_nav/turtlebot_nav.egg-info
+[0.465s] writing ../../build/turtlebot_nav/turtlebot_nav.egg-info/PKG-INFO
+[0.465s] writing dependency_links to ../../build/turtlebot_nav/turtlebot_nav.egg-info/dependency_links.txt
+[0.465s] writing entry points to ../../build/turtlebot_nav/turtlebot_nav.egg-info/entry_points.txt
+[0.465s] writing requirements to ../../build/turtlebot_nav/turtlebot_nav.egg-info/requires.txt
+[0.465s] writing top-level names to ../../build/turtlebot_nav/turtlebot_nav.egg-info/top_level.txt
+[0.465s] writing manifest file '../../build/turtlebot_nav/turtlebot_nav.egg-info/SOURCES.txt'
+[0.466s] reading manifest file '../../build/turtlebot_nav/turtlebot_nav.egg-info/SOURCES.txt'
+[0.466s] writing manifest file '../../build/turtlebot_nav/turtlebot_nav.egg-info/SOURCES.txt'
+[0.466s] running build
+[0.466s] running build_py
+[0.466s] creating /home/fourfold/dev/inmind sessions/inmind-session-7/turtlebot-navigation/build/turtlebot_nav/build
+[0.466s] creating /home/fourfold/dev/inmind sessions/inmind-session-7/turtlebot-navigation/build/turtlebot_nav/build/lib
+[0.466s] creating /home/fourfold/dev/inmind sessions/inmind-session-7/turtlebot-navigation/build/turtlebot_nav/build/lib/turtlebot_nav
+[0.466s] copying turtlebot_nav/navigator.py -> /home/fourfold/dev/inmind sessions/inmind-session-7/turtlebot-navigation/build/turtlebot_nav/build/lib/turtlebot_nav
+[0.466s] copying turtlebot_nav/__init__.py -> /home/fourfold/dev/inmind sessions/inmind-session-7/turtlebot-navigation/build/turtlebot_nav/build/lib/turtlebot_nav
+[0.467s] running install
+[0.467s] running install_lib
+[0.467s] creating /home/fourfold/dev/inmind sessions/inmind-session-7/turtlebot-navigation/install/turtlebot_nav/lib/python3.10/site-packages/turtlebot_nav
+[0.467s] copying /home/fourfold/dev/inmind sessions/inmind-session-7/turtlebot-navigation/build/turtlebot_nav/build/lib/turtlebot_nav/navigator.py -> /home/fourfold/dev/inmind sessions/inmind-session-7/turtlebot-navigation/install/turtlebot_nav/lib/python3.10/site-packages/turtlebot_nav
+[0.467s] copying /home/fourfold/dev/inmind sessions/inmind-session-7/turtlebot-navigation/build/turtlebot_nav/build/lib/turtlebot_nav/__init__.py -> /home/fourfold/dev/inmind sessions/inmind-session-7/turtlebot-navigation/install/turtlebot_nav/lib/python3.10/site-packages/turtlebot_nav
+[0.468s] byte-compiling /home/fourfold/dev/inmind sessions/inmind-session-7/turtlebot-navigation/install/turtlebot_nav/lib/python3.10/site-packages/turtlebot_nav/navigator.py to navigator.cpython-310.pyc
+[0.468s] byte-compiling /home/fourfold/dev/inmind sessions/inmind-session-7/turtlebot-navigation/install/turtlebot_nav/lib/python3.10/site-packages/turtlebot_nav/__init__.py to __init__.cpython-310.pyc
+[0.468s] running install_data
+[0.468s] creating /home/fourfold/dev/inmind sessions/inmind-session-7/turtlebot-navigation/install/turtlebot_nav/share/ament_index
+[0.468s] creating /home/fourfold/dev/inmind sessions/inmind-session-7/turtlebot-navigation/install/turtlebot_nav/share/ament_index/resource_index
+[0.468s] creating /home/fourfold/dev/inmind sessions/inmind-session-7/turtlebot-navigation/install/turtlebot_nav/share/ament_index/resource_index/packages
+[0.468s] copying resource/turtlebot_nav -> /home/fourfold/dev/inmind sessions/inmind-session-7/turtlebot-navigation/install/turtlebot_nav/share/ament_index/resource_index/packages
+[0.468s] copying package.xml -> /home/fourfold/dev/inmind sessions/inmind-session-7/turtlebot-navigation/install/turtlebot_nav/share/turtlebot_nav
+[0.468s] running install_egg_info
+[0.469s] Copying ../../build/turtlebot_nav/turtlebot_nav.egg-info to /home/fourfold/dev/inmind sessions/inmind-session-7/turtlebot-navigation/install/turtlebot_nav/lib/python3.10/site-packages/turtlebot_nav-0.0.0-py3.10.egg-info
+[0.470s] running install_scripts
+[0.482s] Installing navigator_node script to /home/fourfold/dev/inmind sessions/inmind-session-7/turtlebot-navigation/install/turtlebot_nav/lib/turtlebot_nav
+[0.482s] writing list of installed files to '/home/fourfold/dev/inmind sessions/inmind-session-7/turtlebot-navigation/build/turtlebot_nav/install.log'
+[0.494s] Invoked command in '/home/fourfold/dev/inmind sessions/inmind-session-7/turtlebot-navigation/src/turtlebot_nav' returned '0': PYTHONPATH=/home/fourfold/dev/inmind sessions/inmind-session-7/turtlebot-navigation/build/turtlebot_nav/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/fourfold/dev/inmind sessions/inmind-session-7/turtlebot-navigation/install/turtlebot_nav/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/turtlebot_nav build --build-base /home/fourfold/dev/inmind sessions/inmind-session-7/turtlebot-navigation/build/turtlebot_nav/build install --record /home/fourfold/dev/inmind sessions/inmind-session-7/turtlebot-navigation/build/turtlebot_nav/install.log --single-version-externally-managed install_data
